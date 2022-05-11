@@ -5,7 +5,7 @@ Text = "This is Text"
 Character = '$'
 TrueFalse = True
 
-if (Integer > 10 and Decimal > 10):
+if (Integer == 10 and Decimal > 10):
     Text = "This is an If/Else Statement"
 else:
     Text = "Variables can be updated"
