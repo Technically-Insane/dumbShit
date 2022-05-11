@@ -4,6 +4,7 @@ class Main {
 		var Decimal = 10.9;
 		var Text = "This is text";
 		var Character = '$';
+		var TrueFalse = false;
 
 		if (Integer == 10 && Decimal > 10) {
 			Text = "This is an If / Else statement";

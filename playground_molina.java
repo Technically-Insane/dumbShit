@@ -1,1 +1,6 @@
-System.out.println("sss")
+class main {
+    public static void main(String[] args) {
+        System.out.println("sss");
+    }
+
+}
