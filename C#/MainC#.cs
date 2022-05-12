@@ -18,7 +18,7 @@ namespace MainNamespace//Namespace works the same as a Java Class, but broader
             }
             else
             {
-                Text = "Variables can be updates";
+                Text = "Variables can be updated";
             }
 
             while (Integer == 10)
