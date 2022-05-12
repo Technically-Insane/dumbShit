@@ -1,4 +1,6 @@
-class main {// The class is needed for code to be read
+package Java;//Folder Name
+
+class mainClass {// The class is needed for code to be read
 
     public static void main(String[] args) {// Whatever is in the main runs
 
@@ -20,5 +22,6 @@ class main {// The class is needed for code to be read
         }
 
         System.out.println("This Outputs Text");
+
     }
 }
